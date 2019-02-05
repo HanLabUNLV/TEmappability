@@ -11,10 +11,3 @@ shortLabel GEM Single 76bp Mappability
 longLabel GEM 76bp single-end mappability scores with default mismatches allowed (4%)
 type bigWig
 visibility full
-
-track TEpercentUnique
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqK562CellTotalAlnRep2.bam
-shortLabel TE Percent Unique
-longLabel Percent of TE sequence that is unique, according to Bowtie scores.
-type bigBed
-visibility dense
