@@ -4,6 +4,7 @@ shortLabel Bowtie Paired 76bp Mappability
 longLabel Bowtie 76bp paired-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
+viewLimits 0:1
 
 track GEMmapSingle76bp
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/corinsexton/hg38_76bp.bw
@@ -11,3 +12,4 @@ shortLabel GEM Single 76bp Mappability
 longLabel GEM 76bp single-end mappability scores with default mismatches allowed (4%)
 type bigWig
 visibility full
+viewLimits 0:1
