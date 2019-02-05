@@ -1,0 +1,5 @@
+hub TEMappability
+shortLabel TE Mappability
+longLabel Mappability scores for transposable elements and for the whole genome.
+genomesFile genomes.txt
+email  mira.han@unlv.edu
