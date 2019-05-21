@@ -5,6 +5,7 @@ longLabel Bowtie 50bp paired-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
 viewLimits 0:1
+color 179,198,255
 
 track GEMmapSingle50bp
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/corinsexton/hg38_50bp.bw
@@ -13,6 +14,7 @@ longLabel GEM 50bp single-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
 viewLimits 0:1
+color 255,179,179
 
 track  BowtiePaired76bp
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/corinsexton/paired_3mm_inverted.bw
@@ -21,6 +23,7 @@ longLabel Bowtie 76bp paired-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
 viewLimits 0:1
+color 77,121,255
 
 track GEMmapSingle76bp
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/corinsexton/hg38_76bp.bw
@@ -29,6 +32,7 @@ longLabel GEM 76bp single-end mappability scores with default mismatches allowed
 type bigWig
 visibility full
 viewLimits 0:1
+color 255,77,77
 
 track  BowtiePaired100bp
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/corinsexton/100bp_paired_3mm.bw
@@ -37,6 +41,7 @@ longLabel Bowtie 100bp paired-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
 viewLimits 0:1
+color 0,51,204
 
 track GEMmapSingle100bp
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/corinsexton/hg38_100bp.bw
@@ -45,3 +50,4 @@ longLabel GEM 100bp single-end mappability scores allowing for 3 mismatches
 type bigWig
 visibility full
 viewLimits 0:1
+color 204,0,0
